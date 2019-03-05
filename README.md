@@ -144,6 +144,7 @@ CPP：如果发生车辆碰撞，指定代表的公司将寻求确定属于所�
 - 部分批准的索赔 - 减少付款
 - 未确定的声明 - 需要更多信息
 - 被拒绝的索赔 - 没有付款
+
 ![image](https://www.w3.org/WAI/tips/img/clear_text_diagram.png)
 #### 更多信息
 - WCAG
